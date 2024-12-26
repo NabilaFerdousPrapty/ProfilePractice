@@ -1,3 +1,4 @@
+import { Navbar } from "@/components/Floating-dock";
 import Hero from "@/components/Hero";
 import Image from "next/image";
 
